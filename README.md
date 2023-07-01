@@ -48,3 +48,9 @@ Learn about CA and Encryption
     openssl rsautl -decrypt -inkey MyPrivate.key -in enc.txt
     output> string to encrypt
     ```
+
+
+
+###### References
+- https://priyalwalpita.medium.com/create-your-own-certificate-authority-47f49d0ba086
+- https://gist.github.com/cbj4074/ab5826395e940ffc202dcb11004daa54
